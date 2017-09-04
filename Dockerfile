@@ -1,5 +1,4 @@
 #import image cassandra and python2.7
-From cassandra
 FROM python:2.7-slim
 
 # Set the working directory to /cassandra
